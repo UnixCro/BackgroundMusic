@@ -215,7 +215,7 @@ Issues](https://github.com/kyleneideck/BackgroundMusic/issues).
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/), [SoundSource](https://rogueamoeba.com/soundsource/) - "Capture
   Audio From Anywhere on Your Mac", "Get truly powerful control over all the audio on your Mac!"
 - [Sound Siphon](https://staticz.com/soundsiphon/), [Sound Control](https://staticz.com/soundcontrol/) - System/app audio recording, per-app volumes, system audio equaliser
-- [SoundBunny](https://www.prosofteng.com/soundbunny-mac-volume-control/) - "Control application volume independently."
+- [SoundBunny](https://www.prosofteng.com/soundbunny-mac-volume-control/) - "Control application volume independently." - It´s a Malware
 - [Boom 2](http://www.globaldelight.com/boom/index.php) - "The Best Volume Booster & Equalizer For Mac"
 
 ## License
